@@ -16,7 +16,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" height="25" width="35" /> **About Me:**
 
-- 🔭 I’m currently working in **Biotech Software Development**
+- 🔭 I’m currently working in **Genetics Software Development**
 
 - 🌱 I’m currently learning **Machine Learning and Big Data**
 
