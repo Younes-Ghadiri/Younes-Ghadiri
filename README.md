@@ -16,7 +16,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" height="25" width="35" /> **About Me:**
 
-- 🔭 I’m currently working in 
+- 🔭 I’m currently working in **Construction programming and coding a Gadget**
 
 - 🌱 I’m currently learning **Machine Learning and Big Data**
 
